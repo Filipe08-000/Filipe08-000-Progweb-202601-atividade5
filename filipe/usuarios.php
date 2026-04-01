@@ -1,6 +1,7 @@
 <?php
     // O require chama o conexao.php que já verifica o login via sessão
-    require "conexao.php"; 
+    require "conexao.php";
+    include 'menu.php'; 
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
